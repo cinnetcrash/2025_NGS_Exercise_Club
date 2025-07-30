@@ -74,4 +74,4 @@ Bu materyal [MIT Lisansı](LICENSE) ile sunulmuştur.
 
 ---
 
-📬 Sorular için: [gultekinnunal@gmail.com](mailto:gultekinnunal@gmail.com)
+📬 Sorular için: [gultekinnunal[at]gmail.com](mailto:gultekinnunal[at]gmail.com)
