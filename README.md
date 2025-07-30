@@ -1,6 +1,6 @@
 # 2025 NGS Exercise Club
 
-# 🧬 Egzersiz Kulübü – Mikrobiyal Biyoinformatik Eğitim Programı
+# Egzersiz Kulübü – Mikrobiyal Biyoinformatik Eğitim Programı
 
 **Süre:** 6 Hafta  
 **Hedef Kitle:** Mikrobiyoloji uzmanları, laboratuvar uzmanları, halk sağlığı çalışanları  
