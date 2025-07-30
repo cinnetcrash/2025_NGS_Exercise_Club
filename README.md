@@ -1,4 +1,4 @@
-# 2025_NGS_Exercise_Club
+# 2025 NGS Exercise Club
 
 # 🧬 Egzersiz Kulübü – Mikrobiyal Biyoinformatik Eğitim Programı
 
